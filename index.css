@@ -19,7 +19,7 @@ div.section h3 {
 }
 
 div.section a {
-    @apply text-2xl text-blue-600 underline
+    @apply text-2xl text-blue-700 underline
 }
 
 div.item:nth-child(even) {
