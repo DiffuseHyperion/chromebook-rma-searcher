@@ -19,21 +19,21 @@ div.section h3 {
 }
 
 div.section a {
-    @apply text-2xl text-blue-700 underline
+    @apply text-2xl text-white underline
 }
 
 div.item:nth-child(even) {
-    @apply bg-gray-600
+    @apply bg-gray-500
 }
 
 div.item:nth-child(odd) {
-    @apply bg-gray-700
+    @apply bg-gray-600
 }
 
 div.item:nth-child(even) div.section {
-    @apply bg-gray-700
+    @apply bg-gray-600
 }
 
 div.item:nth-child(odd) div.section{
-    @apply bg-gray-600
+    @apply bg-gray-500
 }
